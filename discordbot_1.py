@@ -5,7 +5,7 @@ import requests
 import json
 
 TOKEN = "MTA1OTkxMDA4NzU3NTA4MTAzMA.Gn5Ozu.-uiI6irqMt9ujwqm1fdzMuJFLOtiE43iqvaXbU"
-CODE = 1060294247040958558
+CODE = private
 intents = discord.Intents.default()
 intents.members = True
 
